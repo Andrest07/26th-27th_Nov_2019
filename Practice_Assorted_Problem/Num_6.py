@@ -1,5 +1,3 @@
-#Don't judge me, I got hungry at this point.
-
 def histogram():
     m = int(input("How many integers would you like? "))
     lst = [None] * m

@@ -1,4 +1,3 @@
-import string
 def pangram(x):
     alphabet = "abcdefghijklmnopqrstuvwxyz"
     for char in alphabet:
