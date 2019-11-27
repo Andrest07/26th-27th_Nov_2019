@@ -5,7 +5,7 @@
             #result = result[0:i:1] + text[i] + "o" + text[i:len(text):1]
         #print(result)
     #return result
-    #### A failure of an attempt to make the code shorter, wanted to see if there was a more efficient way.
+    #### A failure of an attempt to make the code shorter, wanted to see if there was a more efficient way (by avoiding the else part). On hindsight I'm not sure if my method would even work unless editted heavily....
 
 def translate2(text):
     result = ""
